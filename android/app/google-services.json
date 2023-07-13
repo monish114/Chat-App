@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "691378475359",
+    "project_id": "flash-chat-e9bf6",
+    "storage_bucket": "flash-chat-e9bf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691378475359:android:ce085f364d38635ecee6ea",
+        "android_client_info": {
+          "package_name": "com.Monish.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691378475359-nf2264g4aim8j4npdurlk4a5akpnpcdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_sW2MYYKL5Qmn3I4UeNDVHdajtuZqMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691378475359-nf2264g4aim8j4npdurlk4a5akpnpcdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691378475359:android:5007fdb6cf3f4b81cee6ea",
+        "android_client_info": {
+          "package_name": "com.Monish1.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691378475359-nf2264g4aim8j4npdurlk4a5akpnpcdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_sW2MYYKL5Qmn3I4UeNDVHdajtuZqMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691378475359-nf2264g4aim8j4npdurlk4a5akpnpcdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
