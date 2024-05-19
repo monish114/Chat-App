@@ -1,16 +1,9 @@
-# flash_chat
+# Flash Chat App
 
-A new Flutter project.
+## Description
+Flash Chat is a real-time chat application that allows users to send and receive messages instantly. The app is designed for seamless communication and features a clean, user-friendly interface. It supports various functionalities including user chat rooms and real-time message updates.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Features
+**Real-Time Messaging**
+Instant Updates: Messages are updated in real-time without needing to refresh the chat.
+Message Notifications: Receive notifications for new messages even when the app is running in the background.
